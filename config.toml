@@ -4,6 +4,7 @@
 
 name = "Jose"
 license = "MIT"
+theme = "tale"
 licenselink = "https://github.com/nanxiaobei/hugo-paper/blob/master/LICENSE"
 description = "A personal blog"
 homepage = "jsameijeiras.eu"
