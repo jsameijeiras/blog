@@ -9,7 +9,7 @@ title = "Por qué dejo Whatsapp por Signal"
 
 +++
 
-Este es un mensaje largo, para todos los contactos que tengo sobre por qué dejó WhatsApp por Signal. 
+Este es un mensaje largo, para todos los contactos que tengo sobre por qué dejo WhatsApp por Signal. 
 
 La privacidad por defecto. Signal depende de una fundación sin ánimo de lucro, cuyo único fin aparente es proveernos el mejor servicio de comunicación encriptada y privada. Los datos están encriptados, como en WhatsApp, pero además ningún dato se comparte con terceros. Al contrario el fin de FB como empresa privada es generar beneficio y para ello explotan tus datos. No veo nada inmoral en hacerlo por su parte pero mi lista de contactos, desde donde mensajeo, a quien mensajeo cuanto lo hago y en qué frecuencias horarias prefiero mantenerlo privado.
 
