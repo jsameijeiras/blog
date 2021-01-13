@@ -10,7 +10,6 @@ license = "MIT"
 theme = "paper"
 licenselink = "https://github.com/nanxiaobei/hugo-paper/blob/master/LICENSE"
 description = "A personal blog"
-homepage = "jsameijeiras.eu"
 tags = ["Responsive", "Simple", "Clean", "Light", "White", "Blog", "Economics","Data Analytics"]
 features = ["Responsive", "One Column", "Blog"]
 min_version = "0.57.1"
@@ -19,8 +18,3 @@ min_version = "0.57.1"
   name = "jsameijeiras"
   homepage = "https://jsameijeiras.com/"
 
-# If porting an existing theme
-[original]
-  name = "jsameijerias"
-  homepage = ""
-  repo = ""
