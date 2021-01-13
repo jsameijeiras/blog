@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <title>Por qué dejo Whatsapp por Signal - </title>
+    
+    <meta name="description" content="Este es un mensaje largo, para todos los contactos que tengo sobre por qué dejó WhatsApp por Signal.
+La privacidad por defecto. Signal depende de una fundación sin ánimo de lucro, cuyo único fin aparente es proveernos el mejor servicio de comunicación encriptada y privada. Los datos están encriptados, como en WhatsApp, pero además ningún dato se comparte con terceros. Al contrario el fin de FB como empresa privada es generar beneficio y para ello explotan tus datos.">
+    <meta name="author" content="jsameijeiras">
+    
+    <link href="https://donsfooty.netlify.app/an-old-hope.min.css" rel="stylesheet">
+    <link href="https://donsfooty.netlify.app/style.css" rel="stylesheet">
+    <link href="https://donsfooty.netlify.app/custom.css" rel="stylesheet">
+    
+    <link rel="apple-touch-icon" href="https://donsfooty.netlify.app/apple-touch-icon.png">
+    <link rel="icon" href="https://donsfooty.netlify.app/favicon.ico">
+    <meta name="generator" content="Hugo 0.80.0" />
+    
+    
+    
+    <script>
+      function setTheme() {
+        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+          document.body.classList.add('dark');
+          return;
+        }
+
+        const time = new Date();
+        const prev = localStorage.getItem('date');
+        const date = String(time.getMonth() + 1) + '.' + String(time.getDate());
+
+        const now = time.getTime();
+        let sunrise;
+        let sunset;
+
+        function setBodyClass() {
+          if (now > sunrise && now < sunset) return;
+          document.body.classList.add('dark');
+        }
+
+        if (date !== prev) {
+          fetch('https://api.ipgeolocation.io/astronomy?apiKey=5ed37d85103e4defa5df4c5298ed5215')
+            .then((res) => res.json())
+            .then((data) => {
+              sunrise = data.sunrise.split(':').map(Number);
+              sunset = data.sunset.split(':').map(Number);
+            })
+            .catch(() => {
+              sunrise = [7, 0];
+              sunset = [19, 0];
+            })
+            .finally(() => {
+              sunrise = time.setHours(sunrise[0], sunrise[1], 0);
+              sunset = time.setHours(sunset[0], sunset[1], 0);
+              setBodyClass();
+              localStorage.setItem('sunrise', sunrise);
+              localStorage.setItem('sunset', sunset);
+            });
+          localStorage.setItem('date', date);
+        } else {
+          sunrise = Number(localStorage.getItem('sunrise'));
+          sunset = Number(localStorage.getItem('sunset'));
+          setBodyClass();
+        }
+      }
+    </script>
+  </head>
+  <body class="single">
+    <script>
+      setTheme();
+    </script>
+    <header class="header">
+      <nav class="nav">
+        <p class="logo"><a href="https://donsfooty.netlify.app/"></a></p>
+      </nav>
+    </header>
+    <main class="main">
+
+
+<article class="post-single">
+  <header class="post-header">
+    <h1 class="post-title">Por qué dejo Whatsapp por Signal</h1>
+    <div class="post-meta">jsameijeiras · January 13, 2020</div>
+  </header>
+  <div class="post-content"><p>Este es un mensaje largo, para todos los contactos que tengo sobre por qué dejó WhatsApp por Signal.</p>
+<p>La privacidad por defecto. Signal depende de una fundación sin ánimo de lucro, cuyo único fin aparente es proveernos el mejor servicio de comunicación encriptada y privada. Los datos están encriptados, como en WhatsApp, pero además ningún dato se comparte con terceros. Al contrario el fin de FB como empresa privada es generar beneficio y para ello explotan tus datos. No veo nada inmoral en hacerlo por su parte pero mi lista de contactos, desde donde mensajeo, a quien mensajeo cuanto lo hago y en qué frecuencias horarias prefiero mantenerlo privado.</p>
+<p>Las conversaciones informales deben volver a ser efímeras. Eso significa que debemos tener la máxima libertad de expresión en nuestros círculos cercanos. Ninguno quiere que una broma sacada de contexto pueda arruinar futuras acciones. El respeto no consiste en eso y vamos camino de una era donde cada vez va a ser más fácil. Signal nos permite tomar esa decisión auto borrando los mensajes.</p>
+<p>El código de la aplicación es abierto. Eso da la posibilidad de que pueda ser auditado por cualquiera de nosotros. Algunos entendemos una parte, otros todo y otros ninguna. Pero la opción de la auditoría pública está. Con las grandes tecnológicas todavía estamos luchando por entender que almacenan y que no.</p>
+<p>Los gobiernos no tienen derecho a acceder a todos nuestros datos en pro de un servicio común. Tu identidad es tuya, es lo que te hace único cualquier intento de usar tus datos para transformar tus decisiones es un atentado contra el principio básico de libertad individual. Signal ha demostrado no poder compartir tus datos aunque las autoridades se los pidan porque simplemente no los guarda, se guardan en tus dispositivos.</p>
+<p>No queremos crear compañías demasiado grandes como para depender de ellas. Al darle la opción a compañías como FB de organizar oligopolios de recogida de datos estamos frenando el desarrollo de compañías que puedan proveer mejores servicios dejando en manos de unas pocas nuestro desarrollo en telecomunicaciones. Estamos lejos de que eso suceda todavía pero más cerca que hace 10 años. Al fragmentar a través de distintas compañías los servicios digitales que usamos, conseguimos que nuestra voz como usuario tenga más volumen. La competencia nos da mayor libertad en este caso.</p>
+<p>Por eso, a partir del día 1 de febrero he decidido no seguir usando WhatsApp y pasarme a Signal. Con tal motivo os pido que hagáis lo mismo así no estaré yo solo hablando conmigo mismo. Pero esto no es un acto de arrogancia. Si no estáis en Signal encontraré la forma de comunicarme con vosotros y vosotros conmigo cuando haga falta.</p>
+<p>PD.: Puedes usar este mensaje para enviarlo a tus contactos si quieres.</p>
+</div>
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="https://donsfooty.netlify.app/tags/signal">signal</a></li>
+      <li><a href="https://donsfooty.netlify.app/tags/privacy">privacy</a></li>
+      <li><a href="https://donsfooty.netlify.app/tags/politics">politics</a></li>
+    </ul>
+  </footer>
+  
+</article></main>
+<footer class="footer">
+  <span>&copy; 2021 <a href="https://donsfooty.netlify.app/"></a></span>
+  <span>&middot;</span>
+  <span>Powered by <a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo️️</a>️</span>
+  <span>&middot;</span>
+  <span>Theme️ <a href="https://github.com/nanxiaobei/hugo-paper" rel="noopener" target="_blank">Paper</a></span>
+</footer>
+<script src="https://donsfooty.netlify.app/highlight.min.js"></script>
+<script>
+  hljs.initHighlightingOnLoad();
+</script>
+</body>
+</html>
+

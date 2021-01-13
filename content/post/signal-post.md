@@ -1,9 +1,11 @@
 +++ 
 
-title = "¿Por qué he decidido usar Signal?"
-description = "Y dejo WhatsApp"
-draft = false
-author = "jsameijeiras"
+categories = ["Politics", "Personal"]
+date = "2020-01-13"
+description = "Por qué dejo Whatsapp por Signal"
+slug = "bye-signal"
+tags = ["signal", "privacy", "politics"]
+title = "Por qué dejo Whatsapp por Signal"
 
 +++
 

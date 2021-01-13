@@ -3,23 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>https://donsfooty.netlify.app/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://donsfooty.netlify.app/categories/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://donsfooty.netlify.app/categories/personal/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://donsfooty.netlify.app/categories/politics/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/signal-post/</loc>
+    <loc>https://donsfooty.netlify.app/tags/politics/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://donsfooty.netlify.app/post/bye-signal/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://donsfooty.netlify.app/post/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://donsfooty.netlify.app/tags/privacy/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://donsfooty.netlify.app/tags/signal/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://donsfooty.netlify.app/tags/</loc>
+    <lastmod>2020-01-13T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
