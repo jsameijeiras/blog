@@ -9,8 +9,6 @@ title = "Por qué dejo Whatsapp por Signal"
 
 +++
 
-Este es un mensaje largo, para todos los contactos que tengo sobre por qué dejo WhatsApp por Signal. 
-
 El resumen corto es Signal no almacena tus datos, WhatsApp sí. Esto en mi opinión se traduce en los siguientes beneficios:
 
 ### La privacidad por defecto.  
@@ -27,7 +25,7 @@ Eso significa que debemos tener la máxima libertad de expresión en nuestros c�
 
 ### Hay datos a los que ningún gobierno debe poder acceder.
 
-Cuando generamos datos y estos se almacenan en servidores, inmediatamente pasan a ser susceptibles de ser requeridos por el gobierno. No digo que esto suceda de forma continuada ahora mismo, solo que existe la amenaza. Tu tomas la decisión de asumir ese riesgo. Tu decides si dejarle tus datos a Whatsapp y por siguiente a quien gobierne hoy o dentro de 20 años. Yo he decido no hacerlo. Signal ha demostrado no poder compartir tus datos aunque las autoridades se los pidan porque simplemente no los guarda, se guardan en tus dispositivos. [^2]
+Cuando generamos datos y estos se almacenan en servidores, inmediatamente pasan a ser susceptibles de ser requeridos por el gobierno. No digo que esto suceda de forma continuada, solo que existe la amenaza. Tu tomas la decisión de asumir ese riesgo. Tu decides si dejarle tus datos a Whatsapp y por siguiente a quien gobierne hoy o dentro de 20 años. Yo he decido no hacerlo. Signal ha demostrado no poder compartir tus datos aunque las autoridades se los pidan porque simplemente no los guarda, se guardan en tus dispositivos. [^2]
 
 ### No queremos crear compañías tan grandes que no puedan caer.
 
@@ -37,7 +35,9 @@ Por eso, a partir del día 1 de febrero he decidido no seguir usando WhatsApp y 
 
 PD.: Puedes usar este mensaje para enviarlo a tus contactos si quieres. 
 
-*Fdo.: Jose Sanchez Ameijeiras @jsameijeiras*
+*Fdo.: Jose Sanchez Ameijeiras*
+
+(@jsameijeiras) [https://twitter.com/jsameijeiras]
 
 
 [^1]: https://github.com/signalapp
