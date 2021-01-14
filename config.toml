@@ -30,5 +30,5 @@ min_version = "0.57.1"
 
  [[menu.main]]
   name = "Blog"
-  url  = "post/"
+  url  = "post"
   weight = 10
