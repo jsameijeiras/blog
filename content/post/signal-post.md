@@ -37,7 +37,7 @@ PD.: Puedes usar este mensaje para enviarlo a tus contactos si quieres.
 
 *Fdo.: Jose Sanchez Ameijeiras*
 
-(@jsameijeiras) [https://twitter.com/jsameijeiras]
+[@jsameijeiras] (https://twitter.com/jsameijeiras)
 
 
 [^1]: https://github.com/signalapp
