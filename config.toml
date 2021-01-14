@@ -32,3 +32,6 @@ min_version = "0.57.1"
   name = "Blog"
   url  = "post"
   weight = 10
+
+  [params]   
+   gtm = "G-57YB852GH5"
