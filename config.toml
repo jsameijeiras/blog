@@ -25,7 +25,7 @@ min_version = "0.57.1"
 
  [[menu.main]]
   name = "About"
-  url  = "about/me.md"
+  url  = "about/me"
   weight = 5
 
  [[menu.main]]
