@@ -3,7 +3,7 @@
 # See https://github.com/gohugoio/hugoThemes#themetoml for an example
 
 
-defaultContentLanguage = "es" 
+defaultContentLanguage = "en" 
 baseURL = "https://www.jsameijeiras.com/"
 name = "Jose"
 license = "MIT"
