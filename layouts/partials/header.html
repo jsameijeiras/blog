@@ -93,6 +93,14 @@
     <script>
       setTheme();
     </script>
+    <!-- Nav -->
+    <div>
+      <ul class="language-list">
+          {{ range $.Site.Home.AllTranslations }}
+          <li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+          {{ end }}
+      </ul>
+  </div>
     <header class="header">
       <nav class="nav">
         {{- if .IsHome }}
@@ -110,13 +118,6 @@
         </ul>
         {{- end }}
       </nav>
-<!-- Nav Bar -->
-      <div>
-        <ul class="language-list">
-            {{ range $.Site.Home.AllTranslations }}
-            <li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
-            {{ end }}
-        </ul>
-    </div>
+
     </header>
     <main class="main">
