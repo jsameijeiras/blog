@@ -27,10 +27,5 @@ min_version = "0.57.1"
   name = "jsameijeiras"
   homepage = "https://jsameijeiras.com/"
 
- [[menu.main]]
-  name = "Home"
-  url  = "/"
-  weight = 0
-
   [params]   
    gtm = "G-57YB852GH5"
