@@ -3,7 +3,7 @@
 # See https://github.com/gohugoio/hugoThemes#themetoml for an example
 
 
-  
+defaultContentLanguage = "es" 
 baseURL = "https://www.jsameijeiras.com/"
 name = "Jose"
 license = "MIT"
@@ -14,6 +14,15 @@ tags = ["Responsive", "Simple", "Clean", "Light", "White", "Blog", "Economics","
 features = ["Responsive", "One Column", "Blog"]
 min_version = "0.57.1"
 
+[languages]
+  [languages.en]
+    contentDir = "content/english"
+    languageName = "English"
+    weight = 10
+  [languages.es]
+    contentDir = "content/spanish"
+    languageName = "Spanish"
+    weight = 20
 
 [author]
   name = "jsameijeiras"
@@ -36,19 +45,3 @@ min_version = "0.57.1"
 
   [params]   
    gtm = "G-57YB852GH5"
-
-defaultContentLanguage = "es"
-
-[languages]
-  [languages.en]
-    contentDir = "content/english"
-    languageName = "English"
-    weight = 10
-  [languages.es]
-    contentDir = "content/spanish"
-    languageName = "Spanish"
-    weight = 20
-
-[params]
-  [params.navigation]
-    help = "Help"
