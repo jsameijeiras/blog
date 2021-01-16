@@ -44,7 +44,7 @@ defaultContentLanguage = "es"
     contentDir = "content/english"
     languageName = "English"
     weight = 10
-  [languages.fr]
+  [languages.es]
     contentDir = "content/spanish"
     languageName = "Spanish"
     weight = 20
