@@ -114,6 +114,8 @@
           <li>
             <a href="{{ .URL }}">{{ .Name }}</a>
           </li>
+          {{ range $.Site.Home.AllTranslations }}
+          <li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
           {{- end }}
         </ul>
         {{- end }}
