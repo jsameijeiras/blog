@@ -387,6 +387,9 @@ img {
   line-height: 1.5;
   border-bottom: 1px solid var(--border);
 }
+.post-content p {
+  text-align: justify;
+}
 .post-content table th {
   font-size: 14px;
   text-align: justify;
