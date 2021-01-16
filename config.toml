@@ -14,6 +14,17 @@ tags = ["Responsive", "Simple", "Clean", "Light", "White", "Blog", "Economics","
 features = ["Responsive", "One Column", "Blog"]
 min_version = "0.57.1"
 
+
+[languages]
+  [languages.en]
+    contentDir = "content/english"
+    languageName = "English"
+    weight = 10
+  [languages.fr]
+    contentDir = "content/french"
+    languageName = "Français"
+    weight = 20
+
 [author]
   name = "jsameijeiras"
   homepage = "https://jsameijeiras.com/"
@@ -25,7 +36,7 @@ min_version = "0.57.1"
 
  [[menu.main]]
   name = "About"
-  url  = "about/me"
+  url  = "about"
   weight = 5
 
  [[menu.main]]

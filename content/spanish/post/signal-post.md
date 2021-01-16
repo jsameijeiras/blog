@@ -2,7 +2,7 @@
 
 categories = ["Politics", "Personal"]
 date = "2020-01-13"
-description = "Por qué dejo Whatsapp por Signal"
+description = "Por qué Signal?"
 slug = "bye-signal"
 tags = ["signal", "privacy", "politics"]
 title = "Por qué dejo Whatsapp por Signal"
