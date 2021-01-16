@@ -9,8 +9,8 @@ title = "Hola! Hello! Ni hao! Ciao!"
 +++
 
 
-Hola! Soy estudiante del Master de Economía de la Universidad de Tilburg. Antes de eso trabaje como Lead Data Analyst en Transparent Intelligence. 
+Hello! I am a student of the Master of Economics at the University of Tilburg. Before that I worked as Lead Data Analyst at Transparent Intelligence.
 
-Aquí escribo mis ideas sobre política, economía y tecnología. Me interesa como conseguir vivir mejor.
+Here I write my ideas on politics, economics and technology. I am interested in how to live better.
 
-*La página está hecha con Hugo y hosteada en Netlify, si te interesa el código echale un vistazo en mi [github](https://github.com/jsameijeiras).*
+* The page is made with Hugo and hosted on Netlify, if you are interested in the code take a look at my [github] (https://github.com/jsameijeiras). *

@@ -32,15 +32,5 @@ min_version = "0.57.1"
   url  = "/"
   weight = 0
 
- [[menu.main]]
-  name = "About"
-  url  = "/about"
-  weight = 5
-
- [[menu.main]]
-  name = "Post"
-  url  = "/post"
-  weight = 10
-
   [params]   
    gtm = "G-57YB852GH5"
