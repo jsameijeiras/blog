@@ -30,14 +30,25 @@ min_version = "0.57.1"
   weight = 5
 
  [[menu.main]]
-  name = "English"
-  url  = "/english"
+  name = "Post"
+  url  = "/post"
   weight = 10
-
-   [[menu.main]]
-  name = "Spanish"
-  url  = "/spanish"
-  weight = 15
 
   [params]   
    gtm = "G-57YB852GH5"
+
+defaultContentLanguage = "es"
+
+[languages]
+  [languages.en]
+    contentDir = "content/english"
+    languageName = "English"
+    weight = 10
+  [languages.fr]
+    contentDir = "content/spanish"
+    languageName = "Spanish"
+    weight = 20
+
+[params]
+  [params.navigation]
+    help = "Help"
