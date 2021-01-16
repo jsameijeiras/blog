@@ -30,12 +30,12 @@ min_version = "0.57.1"
   weight = 5
 
  [[menu.main]]
-  name = "English Blog"
+  name = "English"
   url  = "/english"
   weight = 10
 
    [[menu.main]]
-  name = "Spanish Blog"
+  name = "Spanish"
   url  = "/spanish"
   weight = 15
 

@@ -11,7 +11,7 @@ title = "Why Signal not Whatsapp."
 
 The summary is Signal doesn't store your data, WhatsApp does. This in my opinion translates into the following benefits:
 
-### The default privacy.
+### Privacy by default.
 
  The data of your conversations is encrypted, as in WhatsApp, but also no metadata is shared with third parties. On the contrary, the purpose of Facebook (owner of WhatsApp) as a private company is to generate profit and for this they exploit your data. I do not see anything immoral in doing it but my contact list, from where I message, to whom I message, how much I do it and at what time I prefer to keep it private. In addition to it, Signal depends on a non-profit foundation, whose purpose is to provide the best private communication service.
 
