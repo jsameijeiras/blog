@@ -389,7 +389,7 @@ img {
 }
 .post-content table th {
   font-size: 14px;
-  text-align: left;
+  text-align: justify;
 }
 .post-content table:not(.highlighttable) td code:only-child {
   margin-left: 0;
