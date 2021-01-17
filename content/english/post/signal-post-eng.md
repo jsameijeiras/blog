@@ -1,7 +1,7 @@
 +++ 
 
 categories = ["Politics", "Personal"]
-date = "2020-01-13"
+date = "2020-01-17"
 description = "Why Signal?"
 slug = "bye-signal"
 tags = ["signal", "privacy", "politics"]
@@ -29,19 +29,22 @@ When we generate data, it is stored on servers and it immediately becomes suscep
 
 ### We don't want to create companies that are too big to fail.
 
-Banking is not the only sector where we want to avoid giants that can drag us down with their mistakes. Right now if the big three server providers/Google, Microsoft and Amazon) disappeared from the market, the internet would collapse. As consumers, our decisions are usually restricted to the offer, but there are situations like this one when the decision is easy and free. By using Signal I stop using a Facebook service and therefore I encourage competition in the market as well as giving the possibility to develop to another organization.
+Banking is not the only sector where we want to avoid giants that can drag us down with their mistakes. Right now if the big three server providers (Google, Microsoft and Amazon) disappeared from the market, the internet would collapse. As consumers, our decisions are usually restricted to the supply, but there are situations like this one when the decision is easy and free. By using Signal I stop using a Facebook service and therefore I encourage competition in the market as well as supporting the development of another organization.
 
-Therefore, from today on I will gradually leave WhatsApp. For this reason, I ask you to please do the same so that I won't be just talking to myself. But don't worry, it's not an act of arrogance. If you are not on Signal I will find a way to communicate with you when necessary. What I will not do is to continue on WhatsApp because I do not accept its conditions.
+Therefore, from today on I will gradually leave WhatsApp. For this reason, I ask you to please do the same so that I won't be just talking to myself. But don't worry, it's not an act of arrogance. If you are not on Signal I will find a way to communicate with you when necessary.
 
 Thanks for reading and if you also want to leave WhatsApp, you can forward this message! 
 
-[@jsameijeiras](https://twitter.com/jsameijeiras)
+[@jsameijeiras] (https://twitter.com/jsameijeiras)
 
 
 [^ 1]: https://github.com/signalapp
 [^ 2]: https://www.legislation.gov.uk/ukpga/2016/ 25 / contents / enacted 
 [^ 3]: https://www.theverge.com/2018/12/7/18130391/encryption-law-australia-global-impact
-[^ 4]: https://signal.org/bigbrother/eastern-virginia-grand-jury/
+[^ 4]: https://signal.org/bigbrother/eastern-virginia -grand-jury /
 
-Bonus tack:
+
+Bonus track:
 [Interview with the founder of Singal in The New Yorker] (https://www.newyorker.com/magazine/2020/10/26/taking-back-our-privacy)
+
+
