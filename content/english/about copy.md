@@ -4,7 +4,7 @@ categories = ["Personal"]
 date = "2020-01-13"
 description = "Hola!"
 slug = "me"
-title = "About me
+title = "About me"
 
 +++
 
