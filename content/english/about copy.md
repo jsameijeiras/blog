@@ -7,6 +7,7 @@ slug = "me"
 title = "About me
 
 +++
+
 Hello,
 
 My name is Jose, I have a degree in Economics from Carlos III and I am interested in the intersection between economics and technology. In my final degree project I studied how to use neural networks in the prediction of time series and along the way I learned Python and R.
