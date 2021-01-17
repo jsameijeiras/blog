@@ -5,36 +5,43 @@ date = "2020-01-13"
 description = "Why Signal?"
 slug = "bye-signal"
 tags = ["signal", "privacy", "politics"]
-title = "Why Signal instead of Whatsapp."
+title = "Why I am leaving WhatsApp for Signal"
 
 +++
 
-The summary is Signal doesn't store your data, WhatsApp does. This in my opinion translates into the following benefits:
+The summary is: Signal does not store your data, WhatsApp does. In my opinion, it translates into the following benefits:
 
-### Privacy by default.
+### Privacy by default.  
 
- The data of your conversations is encrypted, as in WhatsApp, but also no metadata is shared with third parties. On the contrary, the purpose of Facebook (owner of WhatsApp) as a private company is to generate profit and for this they exploit your data. I do not see anything immoral in doing it but my contact list, from where I message, to whom I message, how much I do it and at what time I prefer to keep it private. In addition to it, Signal depends on a non-profit foundation, whose purpose is to provide the best private communication service.
+Both Signal and Whatsapp encrypt the data of your conversations. However, while Signal does not share metadata with third parties, Facebook (and therefore Whatsapp) exploits that metadata to generate profit. I do not see anything immoral in doing this, but I prefer to keep my data private, such as my contact list, from where I message, to whom I message, how much I do it and at what time.
 
-### Informal conversations must once again be ephemeral.
+### Informal conversations are ephemeral again. 
 
-That means we must have the maximum freedom of expression in our close circles. The question is no longer just whether Facebook has your data or not, it is whether, for example, your ex-partner has the right to have all the conversations you have shared in the past. If your coworker can save that conversation where you talk about the bad day you have had and where you may not have spoken so well about your boss. Every word, there, kept forever. In my opinion, instant messaging networks are places where you chat, as you do on the street, but the technology we currently use does not emulate that reality, but one where all the words you write can be used against you. Signal allows me to protect myself without having to trust the other party by automatically deleting the messages in the period of time that I indicate.
+With Signal I decide how long each of my messages lasts in your phone. This entails maximum freedom of expression in informal conversations. When talking about privacy, the question is not only whether Facebook has your data or not. It is, for example, whether your ex-partner has the right to have all the conversations you have shared in the past. It is also whether your co-worker should keep the conversation where you complain about your boss. It is questionable if every word should be kept forever. In my opinion, instant messaging networks are places where you chat as you would do on the street. The technology we currently use does not emulate that reality. Signal allows me to speak without being afraid that my words will be used against me, as I would do in the street.
 
 ### Open Source.
 
- That gives the possibility that it can be audited by any of us[^1]. Some of us understand a part, others all and some others none. But the public audit option is there. Among big tech, we are still struggling to understand what they store, what they don't and how they do it.
+I am aware that many feel indifferent about this, but it is beneficial that the structure of a project is public. This gives the possibility to be audited by anyone [^1]. Even if not everyone might understand everything, the option of public auditing exists. 
 
 ### There is data that no government should be able to access.
 
-When we generate data and it is stored on servers, it immediately becomes susceptible to being required by the government. I'm not saying this happens on a continuous basis, just that the threat exists. You make the decision to take that risk. You decide whether to leave your data to WhatsApp and then to whoever governs today or in 20 years. I have decided not to. Signal has shown that it cannot share your data even if the authorities ask for it because it just doesn't save it, it is saved on your devices. [^2]
+When we generate data, it is stored on servers and it immediately becomes susceptible to being seized by the government. I am not saying this happens frequently, but there are many attempts to allow backdoors for an end to end encryption[^ 2] [^ 3] and there are reasons to be sceptical. By using WhatsApp you make the decision to take that risk. You decide whether to leave your data to WhatsApp and thus to who governs today or will do it in 20 years from now. At least with my conversations, I have decided not to take this risk. Signal has shown that it will not share your data even if the authorities ask for it, because it simply does not save it. [^ 4]
 
-### We do not want to create companies too big to fail.
+### We don't want to create companies that are too big to fail.
 
-The banking sector is not the only sector where we want to avoid giants that drag us down with their mistakes. At this time, if the big three disappeared from the market, the entire internet would collapse. As consumers we cannot do as much as we would like but there are times like this when the decision is easy and free. By using Signal I stop using a Facebook service and therefore I encourage competition in the market as well as giving another company the possibility to develop.
+Banking is not the only sector where we want to avoid giants that can drag us down with their mistakes. Right now if the big three server providers/Google, Microsoft and Amazon) disappeared from the market, the internet would collapse. As consumers, our decisions are usually restricted to the offer, but there are situations like this one when the decision is easy and free. By using Signal I stop using a Facebook service and therefore I encourage competition in the market as well as giving the possibility to develop to another organization.
 
-Therefore, as of February 1st, I have decided not to continue using WhatsApp and switch to Signal. For this reason, I ask you to please do the same so that I won't be just talking to myself. But don't worry, it's not an act of arrogance. If you are not on Signal I will find a way to communicate with you and you with me when necessary. What I will not do is continue on WhatsApp because I do not accept its conditions.
+Therefore, from today on I will gradually leave WhatsApp. For this reason, I ask you to please do the same so that I won't be just talking to myself. But don't worry, it's not an act of arrogance. If you are not on Signal I will find a way to communicate with you when necessary. What I will not do is to continue on WhatsApp because I do not accept its conditions.
 
-[@jsameijeiras] (https://twitter.com/jsameijeiras)
+Thanks for reading and if you also want to leave WhatsApp, you can forward this message! 
+
+[@jsameijeiras](https://twitter.com/jsameijeiras)
 
 
-[^1]: https://github.com/signalapp
-[^2]: https://signal.org/bigbrother/eastern-virginia-grand-jury/
+[^ 1]: https://github.com/signalapp
+[^ 2]: https://www.legislation.gov.uk/ukpga/2016/ 25 / contents / enacted 
+[^ 3]: https://www.theverge.com/2018/12/7/18130391/encryption-law-australia-global-impact
+[^ 4]: https://signal.org/bigbrother/eastern-virginia-grand-jury/
+
+Bonus tack:
+[Interview with the founder of Singal in The New Yorker] (https://www.newyorker.com/magazine/2020/10/26/taking-back-our-privacy)
