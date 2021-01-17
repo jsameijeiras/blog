@@ -5,7 +5,7 @@ date = "2020-01-13"
 description = "Why Signal?"
 slug = "bye-signal"
 tags = ["signal", "privacy", "politics"]
-title = "Why Signal not Whatsapp."
+title = "Why Signal instead of Whatsapp."
 
 +++
 

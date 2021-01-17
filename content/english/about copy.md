@@ -4,13 +4,21 @@ categories = ["Personal"]
 date = "2020-01-13"
 description = "Hola!"
 slug = "me"
-title = "Hola! Hello! Ni hao! Ciao!"
+title = "About me
 
 +++
+Hello,
 
+My name is Jose, I have a degree in Economics from Carlos III and I am interested in the intersection between economics and technology. In my final degree project I studied how to use neural networks in the prediction of time series and along the way I learned Python and R.
 
-Hello! I am a student of the Master of Economics at the University of Tilburg. Before that I worked as Lead Data Analyst at Transparent Intelligence.
+I started working in companies in the technology sector such as [EventBank] (https://www.glueup.com/) and [Alto Analytics] (https://www.alto-analytics.com/en_US). And I spent almost 2 years in a big data startup for the vacation rental sector, [Transparent] (https://seetransparent.com/en/).
 
-Here I write my ideas on politics, economics and technology. I am interested in how to live better.
+I am now studying at Tilburg University for a master's degree in Economics with a specialization in Data Science while also working as a mentor in the [Springboard] Data Analytics bootcamp (https://www.springboard.com/).
 
-* The page is made with Hugo and hosted on Netlify, if you are interested in the code take a look at my [github] (https://github.com/jsameijeiras). *
+This page is open to tell you what I am discovering on my own.
+
+Thanks for reading me,
+
+Jose
+
+*The page is made with Hugo and hosted on Netlify, if you are interested in the code take a look at my [github] (https://github.com/jsameijeiras).*

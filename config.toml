@@ -20,7 +20,7 @@ min_version = "0.57.1"
     weight = 10
   [languages.es]
     contentDir = "content/spanish"
-    languageName = "Spanish"
+    languageName = "Español"
     weight = 20
 
 [author]
