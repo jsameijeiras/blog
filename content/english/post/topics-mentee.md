@@ -25,7 +25,7 @@ Signalling that you know how to do something is complex, indeed a topic with a l
 You can pick up these topics either for the Capstone 1 or the Capstone 2. However, I recommend you to choose a topic out of this list for Capstone 1 and use one of this list for Capstone 2.
 
 - What are the main factors affecting the Airbnb listings price? Can it actually be predicted?
-    - Inside Airbnb is a good starting point.
+    - [Inside Airbnb is a good starting point.](http://insideairbnb.com/)
 - Can we create an index similar to the big mac index with data of delivery markets (Just Eat, Deliveroo, etc)? Can we use other standard goods or a combination of them? 
     - This requires some scraping techniques if you cannot find datasets yourself.
 - Creating a prediction model with data of the Walmart sales (M5 Competiton)?
